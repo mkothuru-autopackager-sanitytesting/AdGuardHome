@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="doc/adguard_home_darkmode.svg">
     <img alt="AdGuard Home" src="doc/adguard_home_lightmode.svg" width="300px">
   </picture>
-</p>
+</p>.
 <h3 align="center">Privacy protection center for you and your devices</h3>
 <p align="center">
   Free and open source, powerful network-wide ads & trackers blocking DNS server.
